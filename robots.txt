@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /assets/
 Allow: /
 
 Sitemap: https://neneminseirleri.hs.vc/sitemap.xml
