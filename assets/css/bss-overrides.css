@@ -1,37 +1,3 @@
-.mx-auto {
-  margin-right: auto!important;
-  margin-left: auto!important;
-}
-
-.my-5 {
-  margin-top: 3rem!important;
-  margin-bottom: 3rem!important;
-}
-
-.me-0 {
-  margin-right: 0!important;
-}
-
-.me-7 {
-  margin-right: 6rem !important;
-}
-
-.mb-0 {
-  margin-bottom: 0!important;
-}
-
-.mb-2 {
-  margin-bottom: .5rem!important;
-}
-
-.ms-0 {
-  margin-left: 0!important;
-}
-
-.ms-8 {
-  margin-left: 7.5rem !important;
-}
-
 .p-4 {
   padding: 1.5rem!important;
 }
@@ -50,24 +16,12 @@
   padding-top: 1rem!important;
 }
 
-.pe-4 {
-  padding-right: 1.5rem!important;
-}
-
 .pe-7 {
   padding-right: 6rem !important;
 }
 
 .pb-0 {
   padding-bottom: 0!important;
-}
-
-.pb-9 {
-  padding-bottom: 9rem !important;
-}
-
-.ps-0 {
-  padding-left: 0!important;
 }
 
 .ps-7 {
