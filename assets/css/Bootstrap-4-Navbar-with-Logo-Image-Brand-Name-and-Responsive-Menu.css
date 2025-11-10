@@ -55,11 +55,11 @@
 }
 
 #siteNavbar .navbar-toggler.active, #siteNavbar .navbar-toggler:active, #siteNavbar .navbar-toggler:focus, #siteNavbar .navbar-toggler:hover {
-  border-color: #00ff00;
+  border-color: #ffffff;
   border-radius: 10px;
   border-style: solid;
   border-width: 2px;
-  color: #00ff00;
+  color: #ffffff;
   outline-color: transparent;
 }
 
@@ -155,11 +155,11 @@
 
 @media (min-width: 360px) {
   #siteNavbar .navbar-toggler.active, #siteNavbar .navbar-toggler:active, #siteNavbar .navbar-toggler:focus, #siteNavbar .navbar-toggler:hover {
-    border-color: #00ff00;
+    border-color: #ffffff;
     border-radius: 10px;
     border-style: solid;
     border-width: 2px;
-    color: #00ff00;
+    color: #ffffff;
     outline-color: transparent;
   }
 }
@@ -255,11 +255,11 @@
 
 @media (min-width: 576px) {
   #siteNavbar .navbar-toggler.active, #siteNavbar .navbar-toggler:active, #siteNavbar .navbar-toggler:focus, #siteNavbar .navbar-toggler:hover {
-    border-color: #00ff00;
+    border-color: #ffffff;
     border-radius: 10px;
     border-style: solid;
     border-width: 2px;
-    color: #00ff00;
+    color: #ffffff;
     outline-color: transparent;
   }
 }
@@ -355,11 +355,11 @@
 
 @media (min-width: 768px) {
   #siteNavbar .navbar-toggler.active, #siteNavbar .navbar-toggler:active, #siteNavbar .navbar-toggler:focus, #siteNavbar .navbar-toggler:hover {
-    border-color: #00ff00;
+    border-color: #ffffff;
     border-radius: 10px;
     border-style: solid;
     border-width: 2px;
-    color: #00ff00;
+    color: #ffffff;
     outline-color: transparent;
   }
 }
@@ -455,11 +455,11 @@
 
 @media (min-width: 992px) {
   #siteNavbar .navbar-toggler.active, #siteNavbar .navbar-toggler:active, #siteNavbar .navbar-toggler:focus, #siteNavbar .navbar-toggler:hover {
-    border-color: #00ff00;
+    border-color: #ffffff;
     border-radius: 10px;
     border-style: solid;
     border-width: 2px;
-    color: #00ff00;
+    color: #ffffff;
     outline-color: transparent;
   }
 }
