@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /assets/
 Allow: /
 
-Sitemap: https://www.neneminseirleri.qzz.io/sitemap.xml
+Sitemap: https://www.neneminseirleri.uk/sitemap.xml
