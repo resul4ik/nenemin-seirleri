@@ -133,7 +133,7 @@
 
 @media (min-width: 360px) {
   #siteNavbar .navbar-brand.active, #siteNavbar .navbar-brand:active, #siteNavbar .navbar-brand:focus, #siteNavbar .navbar-brand:hover {
-    color: #ff0000;
+    color: #ffffff;
   }
 }
 
