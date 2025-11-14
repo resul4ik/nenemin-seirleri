@@ -37,7 +37,7 @@
 }
 
 #siteNavbar .navbar-brand.active, #siteNavbar .navbar-brand:active, #siteNavbar .navbar-brand:focus, #siteNavbar .navbar-brand:hover {
-  color: #ff0000;
+  /*color: #ff0000;*/
 }
 
 #siteNavbar .navbar-toggler {
@@ -233,7 +233,7 @@
 
 @media (min-width: 576px) {
   #siteNavbar .navbar-brand.active, #siteNavbar .navbar-brand:active, #siteNavbar .navbar-brand:focus, #siteNavbar .navbar-brand:hover {
-    color: #ff0000;
+    /*color: #ff0000;*/
   }
 }
 
@@ -333,7 +333,7 @@
 
 @media (min-width: 768px) {
   #siteNavbar .navbar-brand.active, #siteNavbar .navbar-brand:active, #siteNavbar .navbar-brand:focus, #siteNavbar .navbar-brand:hover {
-    color: #ff0000;
+    /*color: #ff0000;*/
   }
 }
 
@@ -433,7 +433,7 @@
 
 @media (min-width: 992px) {
   #siteNavbar .navbar-brand.active, #siteNavbar .navbar-brand:active, #siteNavbar .navbar-brand:focus, #siteNavbar .navbar-brand:hover {
-    color: #ff0000;
+    /*color: #ff0000;*/
   }
 }
 
@@ -533,7 +533,7 @@
 
 @media (min-width: 1200px) {
   #siteNavbar .navbar-brand.active, #siteNavbar .navbar-brand:active, #siteNavbar .navbar-brand:focus, #siteNavbar .navbar-brand:hover {
-    color: #ff0000;
+    /*color: #ff0000;*/
   }
 }
 
