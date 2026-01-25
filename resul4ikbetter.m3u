@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vkbmrxkj/aztv.png" group-title="General",AzTV
-http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az@SD" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
