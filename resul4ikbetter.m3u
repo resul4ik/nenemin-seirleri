@@ -7,7 +7,7 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az@SD" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@SD" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png?20161026180742" group-title="General",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="ARB.az@SD" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="General",ARB
