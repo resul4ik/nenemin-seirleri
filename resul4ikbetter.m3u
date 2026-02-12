@@ -65,6 +65,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="General",РЕН ТВ
 http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="General",Кинопремьера HD
+http://87.76.32.36:8001/kinopremyerahd
+#EXTINF:-1 group-title="General",Наше Новое Кино
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="General",Кинохит
@@ -77,8 +81,12 @@ http://176.118.197.101/Kinomix/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="General",КИНОСЕРИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="General",Родное Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="General",Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",Kanal D (1080p)
