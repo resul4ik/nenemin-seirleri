@@ -24,7 +24,7 @@ http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="General",National Geographics
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="General",National Geographics Wild
-http://188.237.47.212:6005
+https://stream8.cinerama.uz/1042/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="General",Nickelodeon
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ
