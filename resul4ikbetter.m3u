@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/AzTV_%282019%29.png/960px-AzTV_%282019%29.png" group-title="General",AzTV
-https://surl.li/rsgvty
+https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/azerbaijan/medeniyyet-tv-tr.png" group-title="General",Medeniyyet TV
-https://surl.li/flfjps
+https://str.yodacdn.net/medeniyyettele/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/azerbaijan/idman-tv-tr.png" group-title="General",Idman TV
-https://surl.li/gwayde
+https://str.yodacdn.net/idmantele/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
-https://surl.li/rotygw
+https://str2.yodacdn.net/ictimaitele/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az@SD" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@SD" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV
-https://surl.li/fuecsp
+https://str2.yodacdn.net/atv/mono.ts.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png?20161026180742" group-title="General",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="ARB.az@SD" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="General",ARB
