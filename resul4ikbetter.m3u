@@ -63,8 +63,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="General",ЧЕ!
 http://31.148.48.15/Che/index.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="General",СТС (540p)
-http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="General",СТС
+https://fl07.lamro.tv/STSHD1/mono.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="General",Россия 24 (576p)
@@ -78,19 +78,19 @@ https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-muzhskoe-kino.png" group-title="General",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinohit.png" group-title="General",Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="General",Кино Kомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinomiks.png" group-title="General",Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinosemya.png" group-title="General",КИНОСЕМЬЯ
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinoseriya.png" group-title="General",КИНОСЕРИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-rodnoe-kino.png" group-title="General",Родное Кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinosvidanie.png" group-title="General",Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-indiyskoe-kino.png" group-title="General",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Comedy HD
@@ -100,9 +100,9 @@ http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Premiere HD
 http://185.46.16.239:8000/VIP_Premiere
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 R Kino
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",Kanal D (1080p)
