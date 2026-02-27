@@ -103,6 +103,18 @@ http://185.46.16.239:8000/VIP_Premiere
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="General",BCU Action HD
+http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1287.m3u8
+#EXTINF:-1 group-title="General",BCU Cinema HD
+http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1289.m3u8
+#EXTINF:-1 group-title="General",BCU Cinema+ HD
+http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1290.m3u8
+#EXTINF:-1 group-title="General",BCU Criminal HD
+http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1291.m3u8
+#EXTINF:-1 group-title="General" tvg-name="BOX Premiere 4K",BOX Premiere 4K
+http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1738.m3u8
+#EXTINF:-1 group-title="General" tvg-name="BOX Serial 4K",BOX Serial 4K
+http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1739.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",Kanal D (1080p)
