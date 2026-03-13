@@ -72,7 +72,7 @@ https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="General",РЕН ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinopremera.png" group-title="General",Кинопремьера HD
-http://87.76.32.36:8001/kinopremyerahd
+https://stream8.cinerama.uz/1207/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-nashe-novoe-kino.png" group-title="General",Наше Новое Кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-muzhskoe-kino.png" group-title="General",Мужское Кино
