@@ -103,19 +103,7 @@ http://185.46.16.239:8000/VIP_Premiere
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General",BCU Action HD
-http://tv.woobl.ru/BCU_Action_HD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
-#EXTINF:-1 group-title="General",BCU Cinema HD
-http://tv.woobl.ru/BCU_Cinema_HD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
-#EXTINF:-1 group-title="General",BCU Cinema+ HD
-http://tv.woobl.ru/BCU_Cinema_Plus_HD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
-#EXTINF:-1 group-title="General",BCU Criminal HD
-http://tv.woobl.ru/BCU_Criminal_HD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
-#EXTINF:-1 group-title="General" tvg-name="BOX Premiere 4K",BOX Premiere 4K
-http://tv.woobl.ru/BOX_Premiere_4K/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
-#EXTINF:-1 group-title="General" tvg-name="BOX Serial 4K",BOX Serial 4K
-http://tv.woobl.ru/BOX_Serial_4K/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
-#EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV (360p)
+#EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
