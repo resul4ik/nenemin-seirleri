@@ -94,11 +94,11 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-indiyskoe-kino.png" group-title="General",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Comedy HD
-http://185.46.16.239:8000/VIP_Comedy
+http://46.53.208.4/live/6003.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Megahit HD 
-http://185.46.16.239:8000/VIP_Megahit
+http://46.53.208.4:80/live/6002.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Premiere HD
-http://185.46.16.239:8000/VIP_Premiere
+http://46.53.208.4:80/live/6001.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 R Kino
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 action
