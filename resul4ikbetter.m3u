@@ -28,7 +28,7 @@ https://stream8.cinerama.uz/1042/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="General",Nickelodeon
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ
-https://stream8.cinerama.uz/1023/mono.m3u8
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="General",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="General",НТВ Мир
