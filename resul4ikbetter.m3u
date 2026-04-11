@@ -28,7 +28,7 @@ https://stream8.cinerama.uz/1042/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="General",Nickelodeon
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ
-http://89.33.29.116/NTV_HD/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1023/mono.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="General",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="General",НТВ Мир
@@ -64,7 +64,7 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="General",ЧЕ!
 http://31.148.48.15/Che/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="General",СТС
-http://95.47.155.244:8001/play/a013
+http://5.188.221.43:8080/play/sts
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="General",Россия 24 (576p)
