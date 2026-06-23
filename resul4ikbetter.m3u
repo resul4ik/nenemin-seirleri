@@ -70,7 +70,7 @@ https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="General",Россия 24 (576p)
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
 #EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="General",РЕН ТВ
-http://185.46.16.239:8000/REN_TV
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinopremera.png" group-title="General",Кинопремьера HD
 https://stream8.cinerama.uz/1207/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-nashe-novoe-kino.png" group-title="General",Наше Новое Кино
