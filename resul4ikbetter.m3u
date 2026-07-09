@@ -76,7 +76,7 @@ https://stream8.cinerama.uz/1207/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-nashe-novoe-kino.png" group-title="General",Наше Новое Кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-muzhskoe-kino.png" group-title="General",Мужское Кино
-https://stream-tv-digital.hf.space/channel/128.m3u8
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinohit.png" group-title="General",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="General",Кино Kомедия
