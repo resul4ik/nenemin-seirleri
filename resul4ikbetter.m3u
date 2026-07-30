@@ -8,7 +8,7 @@ https://str.yodacdn.net/idmantele/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az@SD" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
-https://media.istockphoto.com/id/2213277646/video/glitched-color-television-bars-with-noise-and-static.mp4
+https://str.yodacdn.net/space/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@SD" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png?20161026180742" group-title="General",Xezer TV
@@ -94,15 +94,15 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-indiyskoe-kino.png" group-title="General",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Comedy HD
-http://46.32.176.50/VIPComedyHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Megahit HD 
-http://46.32.176.50/VIPMegahitHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju+ Premiere HD
-http://46.32.176.50/VIPPremiereHD/index.m3u8
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 R Kino
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viju_tv1000_color_rgb_02_1.png" group-title="General",viju TV1000 action
-http://46.32.176.50/tv1000action/index.m3u8
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="General",Kanal D (1080p)
